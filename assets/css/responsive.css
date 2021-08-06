@@ -68,9 +68,6 @@ Author URI: http://www.xpeedstudio.com
     top: -150px;
   }
 }
-.hidden-xs {
-  display: none;
-}
 /* Landscape phones and smaller */
 @media (max-width: 479px) {
   html {
